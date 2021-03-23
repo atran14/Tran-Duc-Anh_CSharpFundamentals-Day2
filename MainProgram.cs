@@ -1,4 +1,5 @@
-using DigitalClock;
+using Tran_Duc_Anh_CSharpFundamentals_Day2.DigitalClock;
+using Tran_Duc_Anh_CSharpFundamentals_Day2.PrimeCalculator;
 
 namespace Tran_Duc_Anh_CSharpFundamentals_Day2
 {
@@ -6,7 +7,8 @@ namespace Tran_Duc_Anh_CSharpFundamentals_Day2
     {
         public static void Main(string[] args)
         {
-            DigitalClockProgram.Run();
+            // DigitalClockProgram.Run();
+            PrimeCalculatorProgram.Run();
         }
     }
 }

@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace DigitalClock
+namespace Tran_Duc_Anh_CSharpFundamentals_Day2.DigitalClock
 {
     public class ClockPublisher
     {
